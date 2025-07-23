@@ -7,3 +7,20 @@ body{
 }p{
     font-size: 25px;
 }
+#adidas{
+    height: 100px;
+    width: 100px;
+    background-color: #010804;
+}
+#faixa{
+    height: 10px;
+    width: auto;
+    background-color: rgb(129, 92, 44);
+}
+#bolinha{
+    height: 100px;
+    width: 100px;
+    background-color: #010804;
+    border-radius: 100%;
+    margin: 0% auto;
+}
