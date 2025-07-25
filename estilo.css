@@ -12,3 +12,7 @@ body{
     width: auto;
     background-color: rgb(129, 92, 44);
 }
+img {
+  border: 3px solid #0e0c0c; /* 3px de largura, cor cinza escuro */
+  border-radius: 8px;     /* bordas arredondadas (opcional) */
+}
