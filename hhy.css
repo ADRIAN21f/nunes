@@ -1,0 +1,27 @@
+.navbar {
+    background-color: rgb(196, 179, 126);
+}
+
+h1 {
+    text-align: center;
+    color: #000;
+}
+
+.d-block {
+    width: 50%;
+
+}
+
+img {
+    margin: 0 auto;
+    margin-top: 5%;
+    top: 50%;
+    border-radius: 6px;
+    border: #000 1px;
+
+}
+
+.row {
+    gap: 1rem;
+    justify-content: center;
+}
